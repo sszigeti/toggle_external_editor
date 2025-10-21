@@ -1,6 +1,8 @@
 # toggle_external_editor Plugin for Godot Engine 4
 Adds a `CheckButton` to Godot's main interface to quickly toggle the use of an external text editor.
 
+![screenshot](screenshot.png)
+
 ## Purpose of this plugin
 
 As [JetBrains Rider EAP](https://www.jetbrains.com/rider/nextversion/) editor's Godot support is being actively developed, sometimes its debugger can get confused. In these cases, temporarily switching back to Godot's own debugger is often useful.
