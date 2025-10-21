@@ -10,15 +10,7 @@ Without this plugin, to make this switch, you have to open `Editor | Editor Sett
 ## Installation
 
 1. Create an `addons` directory in your Godot project
-2. Clone this project in that directory (or just download the zip and unzip it there)
+2. Clone this project in that directory (or just download the zip and unzip it there; you only need the contents of `addons/toggle_external_editor`)
 3. Enable the "Toggle External Editor" plugin in `Project Settings | Plugins`
-
-Your Godot directory structure should look like this:
-
-```
-res://
-    addons
-        toggle_external_editor
-```
 
 You might have other plugins in the `res://addons` directory. This plugin shouldn't interfere with anything, and can safely be removed at any time, as it is just a shortcut to a Godot Engine editor setting.
